@@ -1,6 +1,7 @@
 # How to be a Star Engineer / 如何成為一位傑出的工程師 
  
 *Robert E. Kelley, Carnegie Mellon University* 
+
 *(Robert E. Kelley, "How to be a star engineer," IEEE Spectrum, pp.51-58, Oct.1999.)* 
 
 ----
