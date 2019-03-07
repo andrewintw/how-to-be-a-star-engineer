@@ -6,7 +6,7 @@
 
 翻譯：馬仕毅
 
-[英文原版pdf](https://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
+[英文原版(pdf)](https://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 
 ----
 
