@@ -4,6 +4,10 @@
 
 *(Robert E. Kelley, "How to be a star engineer," IEEE Spectrum, pp.51-58, Oct.1999.)* 
 
+翻譯：馬仕毅
+
+[英文原版pdf](https://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
+
 ----
 
 
