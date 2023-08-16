@@ -66,16 +66,16 @@ Lai 每個下午安排的三個小時的時間來完成指派的工作以及增�
 
 ## 九個工作策略 Nine work strategies
 
-好了，如果你是一個希望能夠提高生產力，增加自己智慧資產的工程師。你該如何做才能讓別人覺得你表現傑出呢？在我們這個研究之前，這個答案並不存在。無論是在學校或是在職場中，沒有任何地方在教培養傑出表現的工作策略。大多數的人藉由試誤法來驗證自己的想法。然而，許多計術上極有競爭力的工程師因為在這個過程中犯了太多錯誤，使得他們的整體表現僅僅比平均稍高一些而已。**例如，他們可能沒有採取主動積極的態度，或者是他們在對整個組織重要性不高的方面主動積極。**
+好了，如果你是一個希望能夠提高生產力，增加自己智慧資產的工程師。你該如何做才能讓別人覺得你表現傑出呢？在我們這個研究之前，這個答案並不存在。無論是在學校或是在職場中，沒有任何地方在教培養傑出表現的工作策略。大多數的人藉由試誤法來驗證自己的想法。然而，許多技術上極有競爭力的工程師因為在這個過程中犯了太多錯誤，使得他們的整體表現僅僅比平均稍高一些而已。**例如，他們可能沒有採取主動積極的態度，或者是他們在對整個組織重要性不高的方面主動積極。**
 
-我們發現，改變你做事的方法以及和別人共事的方法是有必要的。表現傑出的人事實上做事的方法和其他的人有相當的差異。他們將他們的工作策略融合到每天的表現中，產生一個前後一致的行為準則。任何一位具有足夠聰明和動機的工程師都可以獲得卓越表現的能力。
+我們發現，改變你做事的方法以及和別人共事的方法是有必要的。表現傑出的人事實上做事的方法和其他的人有相當的差異。他們將策略融合到每天的工作中，產生一個前後一致的行為準則。任何一位具有足夠聰明和動機的工程師都可以獲得卓越表現的能力。
 
 盡管如此，這種生產力的發揮並不是像大爆炸一樣的釋放出來。也沒有魔法藥丸或是神奇子彈可以讓你瞬間出類拔萃。而是藉由九個互相結合在一起的工作策略為基礎發展起來的。以下依照重要性排列，分別介紹這九種工作策略。
 
 
 ### 1. 閃亮的軌跡 (Blazing trails)
 
-你對於之前提到的 Lai 和 Henry 的看法是什麼？你是否覺得 Henry 被低估了，只為了他只強調技術上的競爭力並不公平？或者 Lai 受賞識只因她會閒聊？
+你對於之前提到的 Lai 和 Henry 的看法是什麼？你是否覺得 Henry 被低估了，因為他只強調技術上的競爭力並不公平？或者 Lai 受賞識只因她會閒聊？
 
 一般的員工，如 Henry，腦海中的主動積極是：想出一些新的想法可以讓他們的工作做得更好，或是在公司主動幫忙一些額外的事情，例如規劃年度野餐或是號召同仁去捐血。實際上，Henry 覺得他自己很主動，『我收集了最新的技術文件，並學習了最新的軟體工具，因而我可以將我的指派工作做得極好。沒有人叫我做這些。』Henry 這樣告訴我。
 
@@ -167,7 +167,7 @@ Elena 的自我管理使得公司經營得更成功。即使她的主管並不�
 
 然而，傑出的工程師很早就了解到，副手還可以有更正面的貢獻，一個傑出的第二號人物的真義在於專心做出幫助。他們主動而且積極地投入對組織（及主管）的成功有幫助的事，同時，對於該做什麼及如何做，他們可以做出獨立而決定性的判斷。一個好的追隨者可以和主管充分配合來達成整個組織的目標，即時他和主管之間的個性及工作文化並不相同。
 
-這點可能會另許多人感到驚訝，因為一般人認為傑出的人應該都是主管或是焦點人物。通常，傑出的副手對主管所做的幫助在於對於可能有困難的地方事先提出警告，做一個心思縝密的共振板，或是質疑主管決定的正確性。
+這點可能會另許多人感到驚訝，因為一般人認為傑出的人應該都是主管或是焦點人物。通常，傑出的副手對主管所做的幫助在於對於可能有困難的地方事先提出警告，心思縝密地給予意見，或是質疑主管決定的正確性。
 
 在許多的科技公司中，公司相信客戶真正的需求和技術人員所認的為最好方案必須做出區別。我常常聽到老闆們和我抱怨當客戶需要的只是一部道奇車時，而他的員工們卻造了一部勞斯萊斯。技術員工往往對於製造出最好的東西相當執著，他們希望能把最先進的技術都用在產品中，即時這樣會造成時程延誤及增加預算。
 
@@ -177,7 +177,7 @@ Elena 的自我管理使得公司經營得更成功。即使她的主管並不�
 
 她的工程師回答：『未必是這樣』。並且和她坐下來討論這個產品對這個客戶及其他客戶的的短期和長期目標。
 
-『沒錯，短期內對這個客戶來說，這樣做可能有好處。』她的屬下說。『但是這樣做也有風險，他們可能會把我們歸類成較低階的產品線。同時，如果我們現在將這個額外的功能加進去，我們已經在進行中的下個客戶的產品開發會省很多時間。不過，我們還是再和客戶確認一次他們的想法。』
+『沒錯，短期內對這個客戶來說，這樣做可能有好處。』她的屬下說。『但是這樣做也有風險，當產品打入高端市場時，他們可能會把我們歸類成較低階的產品線。同時，如果我們現在將這個額外的功能加進去，我們已經在進行中的下個客戶的產品開發會省很多時間。不過，我們還是再和客戶確認一次他們的想法。』
 
 **這位優秀的追隨者了解他的主管最關心的問題。同時，他也試著將她的觀點轉移到他們共同的整體目標**。在可能的狀況下，傑出的追隨者可以稍微修正他們的方向使得他們的努力和公司的目標吻合。**不行的話，他們只好另外找一個更適合的公司。**
 
@@ -282,7 +282,7 @@ Meara 藉著讓她的聽眾們感受到自己的孩子被送進急診室的恐�
 
 為了提供評估的基準，我們訪問了主管，傑出的工程師，及一般的員工，請他們列出明顯顯示出生產力提昇的衡量標準。在經過許多次的反覆實驗之後，我們確認了滿足這些衡量標準的員工，在生產力上確實有明顯的提昇。
 
-然後我們訪問了 300 位參加者及 300 位沒有參加人員的直接主管，根據這些衡量標準來評分，第一次評分是在參與計畫之前，第二次則是在完成計畫之後 8 個月。
+然後我們訪問了 300 位參加者及 300 位沒有參加人員的直屬主管，根據這些衡量標準來評分，第一次評分是在參與計畫之前，第二次則是在完成計畫之後 8 個月。
 
 在這個主管評分的分析中，參與計畫的人員在生產力上都有顯著的提昇。參加過這個訓練的工程師不但解決問題的速度變快，工作產出的品質也提昇了，同時不斷地讓他們的客戶感到驚喜。
 
@@ -292,42 +292,36 @@ Meara 藉著讓她的聽眾們感受到自己的孩子被送進急診室的恐�
 
 這個訓練計畫的成功驗證了我們研究的主要發現。要大幅提昇生產力並不需要魔法。當一個工程師表現平平時，通常不是因為他的能力不足。而是因為他從來沒有學過可以提高他生產力的工作策略。一旦他了解了這些策略，他就開始邁向傑出之路。
 
+## 測驗: 你對傑出工程師的理解
 
------
+那些績效遠超同事的人通常被稱為傑出工程師。你對這些人有多少了解？以下說法是否為真？
 
-## Quiz on 'Understanding Star Performers'
+	_____1) 後天努力無法造就傑出工程師，因為他們是天生的
+	_____2) 傑出工程師比普通員工聰明（擁有較高的智商、較好的解決問題的能力、或是更有創造力）
+	_____3) 傑出工程師有更強的動力及野心
+	_____4) 傑出工程師更有領導力
+	_____5) 辦公桌面整潔相較於雜亂的人更可能是傑出工程師
+	_____6) 詳細的時間管理和有組織的系統是高生產率的關鍵
+	_____7) 傑出工程師相比普通員工的工時更長且更勤奮
+	_____8) 傑出工程師相比普通員工對自己工作更滿意
+	_____9) 傑出工程師之所以成功，主要是因為他們參與職場政治，並向管理階層作了華而不實的陳述
+	____10) 少數民族和女性很少能像那些搞小圈子的人那樣富有成效
+	____11) 員工不可能長時間維持在生產力倍增的狀態
+	____12) 我寧願擁有一個由四個表現普通的成員輔助一個傑出工程師團隊，也不願擁一個有五個表現都在前5%的成員的團隊
 
-Individuals who outperform their colleagues by a wide margin are often called "star performers." How much do you 
-know about these individuals? Are the following statements True or False?
+答案: 
 
-	_____1) Star performers are born, not made. 
-	_____2) Star performers are smarter than average performers (have higher IQs, are better problem solvers, or are more creative). 
-	_____3) Star performers are more driven and ambitious than others. 
-	_____4) Star performers have more leadership skills than others. 
-	_____5) Clean desk people are more likely to be star performers than messy desk people. 
-	_____6) Detailed time management and organizational systems are keys to high productivity. 
-	_____7) Star performers work longer hours and harder than average performers. 
-	_____8) Star performers are more satisfied with their jobs than average performers. 
-	_____9) Star performers are successful primarily because they play organizational politics and give slick presentations to upper management. 
-	____10) Minorities and women can seldom be as productive as people who are part of the "old boy" network. 
-	____11) People cannot sustain a doubled rate of productivity improvement for long time periods. 
-	____12) I would rather have a team with one star performer supported by four average performers than a team with five performers who are all in the top 5 percent. 
+	1)否; 2)否; 3)否; 4)否; 5)否; 6)否; 7)否; 8)否; 9)否; 10)否; 11)否
 
-
-Answers: 
-
-	1)F; 2)F; 3)F; 4)F; 5)F; 6)F; 7)F; 8)F; 9)F; 10)F; 11)F. 
-
-Score:
+得分:
  
-	10 to 11 -- you know what leads to star performance 
-	8 to 9   -- above average 
-	5 to 7   -- average understanding of star performance 
-	0 to 4   -- your understanding of what leads to star performance is limited and probably based on unfounded, naïve assumptions about stars.
+	10 to 11 -- 你知道是什麼造就傑出工程師
+	8 to 9   -- 對傑出工程師的理解高於平均
+	5 to 7   -- 對傑出工程師的理解只有普通程度
+	0 to 4   -- 對傑出工程師表現的理解是有限的，而且可能是基於對他們毫無根據且天真的假設
 
-Question 12 does not have a right or wrong answer. It does indicate whether you believe in one star to lead to success or in having a group of top performers from which one or more stars may emerge. In today's highly competitive world, the latter strategy is more likely to give you an edge. 
+第 12 題沒有標準答案。取決於你是否相信一個傑出工程師能帶來成功，還是相信有一群表現出色的人，從中可能出現一個或多個傑出工程師。在當今競爭激烈的世界裡，後一種策略更有可能使你更有優勢。
 
-Star Performer productivity is not the result of innate traits--like IQ, personality, or character. Productivity depends on how they do their jobs. The everyday work strategies of the star performers, not gimmicky products or working long hours, make the difference. When certain star performer strategies are systematically integrated into everyday work routines, then productivity improvement rates can double. For those groups excluded from the "old boys" network, like minorities and women, productivity improvement rates can increase 400 percent. 
-
+傑出工程師的生產力不是因為們的先天特質，如智商、個性或性格，而是取決於他們如何做他們的工作。傑出工程師的日常工作策略使其與眾不同，而不是依靠各種花招或長時間的工作。當他們的策略被系統地整合到日常工作中時，那麼生產力可以加倍。對於那些被排除在小圈子外的群體，如少數民族和女性，生產效率可以增加 400%。
 
 ~ END ~
